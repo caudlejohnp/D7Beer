@@ -18,7 +18,7 @@ export class BeerComponent implements OnInit {
     "tagline",
     "image_url",
     "abv",
-    // "food_pairing"
+    "food_pairing"
   ];
 
   count = 25
